@@ -8,6 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
+extern NSString * const kPVCachePath;
+extern NSString * const PVMediaCacheWasEmptiedNotification;
+
 extern NSString * const PVSystemNameKey;
 extern NSString * const PVShortSystemNameKey;
 extern NSString * const PVSystemIdentifierKey;

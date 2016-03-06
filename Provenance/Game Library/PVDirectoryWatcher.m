@@ -8,8 +8,9 @@
 
 #import "PVDirectoryWatcher.h"
 #import "SSZipArchive.h"
-#import "PVEmulatorConfiguration.h"
 #import "NSDate+NSDate_SignificantDates.h"
+
+#import "Provenance-Swift.h"
 
 NSString *PVArchiveInflationFailedNotification = @"PVArchiveInflationFailedNotification";
 

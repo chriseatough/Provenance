@@ -8,11 +8,11 @@
 
 #import "PVSettingsViewController.h"
 #import "PVSettingsModel.h"
-#import "PVMediaCache.h"
 #import "UIAlertView+BlockAdditions.h"
 #import "PVGameLibraryViewController.h"
-#import "PVConflictViewController.h"
 #import "PViCadeControllerViewController.h"
+
+#import "Provenance-Swift.h"
 
 @interface PVSettingsViewController ()
 

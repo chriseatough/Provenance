@@ -8,6 +8,9 @@
 
 #import "PVEmulatorConstants.h"
 
+NSString * const kPVCachePath = @"PVCache";
+NSString * const PVMediaCacheWasEmptiedNotification = @"PVMediaCacheWasEmptiedNotification";
+
 NSString * const PVSystemNameKey = @"PVSystemName";
 NSString * const PVShortSystemNameKey = @"PVShortSystemName";
 NSString * const PVSystemIdentifierKey = @"PVSystemIdentifier";
